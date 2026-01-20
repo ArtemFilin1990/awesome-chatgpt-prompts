@@ -84,6 +84,13 @@ Welcome to the "Awesome ChatGPT Prompts" repository! While this collection was o
 
 In this repository, you will find a variety of [prompts](prompts.csv) that can be used with ChatGPT and other AI chat models. We encourage you to [add your own prompts](https://prompts.chat) to the list, and to use AI to help generate new prompts as well. Your contributions to [prompts.chat](https://prompts.chat) will be contributions to this repository automatically.
 
+**📖 Документация также доступна на русском языке:**
+- [README.ru.md](README.ru.md) — Главная страница на русском
+- [CONTRIBUTING.ru.md](CONTRIBUTING.ru.md) — Руководство по внесению вклада
+- [SELF-HOSTING.ru.md](SELF-HOSTING.ru.md) — Руководство по самостоятельному размещению
+- [DOCKER.ru.md](DOCKER.ru.md) — Руководство по развертыванию Docker
+- [CLAUDE.ru.md](CLAUDE.ru.md) — Краткая справка для Claude Code
+
 ## Want to deploy your own private prompt library for your team?
 
 Check out our [Self-Hosting Guide](SELF-HOSTING.md) for instructions on setting up your own instance with **customizable branding, themes, and authentication**.
